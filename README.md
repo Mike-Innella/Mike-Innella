@@ -1,7 +1,7 @@
 Hi 👋 My name is Michael Innella
 ================================
 
-Web Developer
+Frontend Developer
 -------------
 
 Passionate Frontend Developer specializing in creating responsive, user-centric web applications. Proficient in HTML, CSS, JavaScript, and modern frameworks such as React. Adept at translating design concepts into interactive digital experiences, ensuring optimal performance and accessibility. Continuously learning and adapting to emerging technologies to deliver innovative solutions.
