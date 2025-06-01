@@ -12,7 +12,7 @@ Passionate Frontend Developer specializing in creating responsive, user-centric 
 * 🚀  I'm currently working on [https://howard-motor-webapp.vercel.app/](http://https://howard-motor-webapp.vercel.app/)
 * 🧠  I'm learning more about JavaScript and React.
 * 🤝  I'm open to collaborating on anything most likely!
-* ⚡  I produce EDM music also.
+* ⚡  I also produce EDM music.
 
 ### Skills
 
