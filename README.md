@@ -7,6 +7,7 @@ Frontend Developer
 Passionate Frontend Developer specializing in creating responsive, user-centric web applications. Proficient in HTML, CSS, JavaScript, and modern frameworks such as React. Adept at translating design concepts into interactive digital experiences, ensuring optimal performance and accessibility. Continuously learning and adapting to emerging technologies to deliver innovative solutions.
 
 * 🌍  I'm based in Richmond, VA
+* 🖥️  See my portfolio at [https://e-portfolio-2025-kappa.vercel.app/](http://e-portfolio-2025-kappa.vercel.app/)
 * ✉️  You can contact me at [mainnella@gmail.com](mailto:mainnella@gmail.com)
 * 🚀  I'm currently working on [https://howard-motor-webapp.vercel.app/](http://https://howard-motor-webapp.vercel.app/)
 * 🧠  I'm learning more about JavaScript and React.
