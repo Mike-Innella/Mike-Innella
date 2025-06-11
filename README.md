@@ -4,7 +4,10 @@ Hi!  My name is Michael Innella
 Frontend Developer
 ------------------
 
-Passionate Frontend Developer specializing in creating responsive, user-centric web applications. Proficient in HTML, CSS, JavaScript, and modern frameworks such as React. Adept at translating design concepts into interactive digital experiences, ensuring optimal performance and accessibility. Continuously learning and adapting to emerging technologies to deliver innovative solutions.
+A passionate frontend developer with hands-on experience building modern, responsive web applications using React,
+Tailwind CSS, and Vite. Comfortable working across the full stack when needed, particularly with Firebase for
+authentication, real-time data, and backend logic. Known for clean code, strong UI/UX instincts, and a focus on
+performance, accessibility, and maintainability across projects ranging from portfolios to client dashboards.
 
 * 🌍  I'm based in Richmond, VA
 * 🖥️  See my portfolio at [https://e-portfolio-2025-kappa.vercel.app/](http://e-portfolio-2025-kappa.vercel.app/)
