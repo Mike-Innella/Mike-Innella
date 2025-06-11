@@ -10,7 +10,7 @@ authentication, real-time data, and backend logic. Known for clean code, strong 
 performance, accessibility, and maintainability across projects ranging from portfolios to client dashboards.
 
 * 🌍  I'm based in Richmond, VA
-* 🖥️  See my portfolio at [https://e-portfolio-2025-kappa.vercel.app/](http://e-portfolio-2025-kappa.vercel.app/)
+* 🖥️  See my portfolio at [https://www.mikeinnella.dev/](https://www.mikeinnella.dev/)
 * ✉️  You can contact me at [mainnella@gmail.com](mailto:mainnella@gmail.com)
 * 🚀  I'm currently working on [https://howard-motor-webapp.vercel.app/](http://https://howard-motor-webapp.vercel.app/)
 * 🧠  I'm learning more about JavaScript and React.
