@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hello! 👋</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">A passionate software developer with hands-on experience building modern, responsive web applications using React, Tailwind CSS, and Vite. Comfortable working across the full stack when needed, particularly with Firebase for authentication, real-time data, and backend logic. Known for clean code, strong UI/UX instincts, and a focus on performance, accessibility, and maintainability across projects ranging from portfolios to client dashboards.<br><br>🌍  I'm based in Richmond, VA<br>🖥️  See my portfolio at https://www.mikeinnella.dev/<br>✉️  You can contact me at mainnella@gmail.com<br>🚀  I'm currently working on https://howard-motor-webapp.vercel.app/<br>🧠  I'm learning more about JavaScript and React.<br>🤝  I'm open to collaborating on anything most likely!<br>⚡  I produce EDM music also.</p>
+<p align="left">A passionate software developer with hands-on experience building modern, responsive web applications using React, Tailwind CSS, and Vite. Comfortable working across the full stack when needed, particularly with Firebase for authentication, real-time data, and backend logic. Known for clean code, strong UI/UX instincts, and a focus on performance, accessibility, and maintainability across projects ranging from portfolios to client dashboards.<br><br>🌍  I'm based in Richmond, VA<br>🖥️  See my portfolio at https://www.mikeinnella.dev/<br>✉️  You can contact me at mainnella@gmail.com<br>🚀  I'm currently working on several projects! Please inquire for more details <br>🧠  I'm learning more about JavaScript and React.<br>🤝  I'm open to collaborating on anything most likely!<br>⚡  I produce EDM music also.</p>
 
 ###
 
