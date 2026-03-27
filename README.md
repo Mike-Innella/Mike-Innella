@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 💫About Me :<br>🌍 I'm based in Richmond, VA<br>🖥️ See my portfolio at https://www.mikeinnella.dev/<br>✉️ You can contact me at mainnella@gmail.com<br>🚀 I'm currently working on several projects! Please inquire for more details<br>🧠 I'm learning more about various technologies such TypeScript, JavaScript, Python, and more!<br>🤝 I'm open to collaborating on anything most likely!<br>⚡ I produce EDM music also, check it out at https://soundcloud.com/prod8lives
 
 
